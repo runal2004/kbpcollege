@@ -1,3 +1,3 @@
 # kbpcollege
 this is my college
-author = mrunal divate
+author = mrunal  divate
